@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7D1B67D1-1196-4D50-8211-1D7C2A142610"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EA9BED0-D6CC-47B3-B27C-4A01C73ECD1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getWeather(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00BAA93B-16D5-4525-A0C2-35672DF8D81A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getWeather(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00BAA93B-16D5-4525-A0C2-35672DF8D81A - a9b857b8085093fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, VK_Weather.WeatherServiceError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;VK_Weather.WeatherResponse, Swift.Error&gt;) -&gt; () in VK_Weather.WeatherService.getWeather(latitude: Swift.Double, longitude: Swift.Double, date: Swift.String) async throws -&gt; VK_Weather.WeatherResponse"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Weather/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+               <Location
+                  uuid = "00BAA93B-16D5-4525-A0C2-35672DF8D81A - a9b857b8085093fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, VK_Weather.WeatherServiceError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;VK_Weather.WeatherResponse, Swift.Error&gt;) -&gt; () in VK_Weather.WeatherService.getWeather(latitude: Swift.Double, longitude: Swift.Double, date: Swift.String) async throws -&gt; VK_Weather.WeatherResponse"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Weather/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D5025EA-BC8F-49A1-9C67-0C3FAED8E656"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getWeather(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2086856-722A-48CA-8606-CAEEE0DB9CDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C331E6D4-6DF3-45D4-BC63-1D23ACD1ADC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB784B70-C7D6-4BBF-BDEF-715400202A21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "014CC879-5DE1-4DCF-90CB-A2C46CED969D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4AAEE3D-5D2E-4883-838C-224788C8E147"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/Views/MoreInformationWeatherView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "configure(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4AAEE3D-5D2E-4883-838C-224788C8E147 - 78ff9e2f024829b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.MoreInformationWeatherView.configure(model: VK_Weather.WeatherModel) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/View/Views/MoreInformationWeatherView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "2372">
+               </Location>
+               <Location
+                  uuid = "F4AAEE3D-5D2E-4883-838C-224788C8E147 - 78ff9e2f024829b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.MoreInformationWeatherView.configure(model: VK_Weather.WeatherModel) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/View/Views/MoreInformationWeatherView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "2280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD4F8818-D6D8-453A-8D5A-40A5532EF035"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "get(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5E6DCAE-B330-4FCD-9B92-26261A70CAA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "get(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE35A2F5-98B2-4833-8B7F-FC15E87CB886"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "get(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CB48CE6-8DB5-45A3-AACE-691DA6EA50F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "get(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC4D19BE-7B76-4B7D-A191-4C3958796241"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Location/LocationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC4D19BE-7B76-4B7D-A191-4C3958796241 - 974ad30bf600d04e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "FC4D19BE-7B76-4B7D-A191-4C3958796241 - 9010e5c1e3763bf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "FC4D19BE-7B76-4B7D-A191-4C3958796241 - 9010e5c1e3763dc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManager(_: __C.CLLocationManager, didUpdateLocations: Swift.Array&lt;__C.CLLocation&gt;) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BDEB564-5718-405A-A314-7A39731B38C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Location/LocationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "locationManager(_:didFailWithError:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BDEB564-5718-405A-A314-7A39731B38C1 - 19936eed64c17bd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManager(_: __C.CLLocationManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "3BDEB564-5718-405A-A314-7A39731B38C1 - 19936eed64c17b92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManager(_: __C.CLLocationManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "3BDEB564-5718-405A-A314-7A39731B38C1 - 19936eed64c17bd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManager(_: __C.CLLocationManager, didFailWithError: Swift.Error) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0FB6798-C041-49CC-ACB3-74F60B754DFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Location/LocationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "locationManagerDidChangeAuthorization(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C0FB6798-C041-49CC-ACB3-74F60B754DFA - 974ad30bf600db8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "C0FB6798-C041-49CC-ACB3-74F60B754DFA - 974ad30bf600db8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "C0FB6798-C041-49CC-ACB3-74F60B754DFA - 974ad30bf600db8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E1C7FE9-08D7-4615-BBE5-4FAB529CCDEF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87B1A305-1BAC-4B86-8A5D-2DA98127FEE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E638F821-9756-45DA-83F9-BF22BB306242"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Location/LocationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "determineCity(coordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E638F821-9756-45DA-83F9-BF22BB306242 - 9de2287d3f1a4fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_Weather.LocationService.determineCity(coordinates: __C.CLLocation) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "E638F821-9756-45DA-83F9-BF22BB306242 - 9de2287d3f1a4fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in VK_Weather.LocationService.determineCity(coordinates: __C.CLLocation) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68F5A910-9F50-4CA7-B8FD-FC2E66C51B72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/Views/InformationCurrentWeatherView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "configureTownTitle(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E5F0D56-F3F0-4AB5-84D1-3225640F6017"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Location/LocationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "determineCity(coordinates:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFB3ADDE-6443-4AC9-85FC-252DC05AAAA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "setupBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AC805C7-24BE-4644-9DB4-9BEE380D9047"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9AC805C7-24BE-4644-9DB4-9BEE380D9047 - cdc459fc305f4ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.MainScreenViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "9AC805C7-24BE-4644-9DB4-9BEE380D9047 - cdc459fc305fb4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.MainScreenViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "9AC805C7-24BE-4644-9DB4-9BEE380D9047 - cdc459fc305fb4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.MainScreenViewController.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/View/MainScreenViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BDDFBD9-4A02-4786-85CD-82330F846045"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Location/LocationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "locationManagerDidChangeAuthorization(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0BDDFBD9-4A02-4786-85CD-82330F846045 - 974ad30bf600dbcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "0BDDFBD9-4A02-4786-85CD-82330F846045 - 974ad30bf600dbcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.LocationService.locationManagerDidChangeAuthorization(__C.CLLocationManager) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Location/LocationService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7978E74F-180F-4825-9083-2F4705A71DF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Location/LocationService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "locationManagerDidChangeAuthorization(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8EC784C-E37F-4F43-ABD2-EE02D64FB51E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "handleError(error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F8EC784C-E37F-4F43-ABD2-EE02D64FB51E - 56edf29c4fc3d024"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VK_Weather.MainScreenViewModel.loadNextWeatherForDate(date: Swift.String, locationCoordinates: VK_Weather.LocationCoordinates) async -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "F8EC784C-E37F-4F43-ABD2-EE02D64FB51E - f2d54b2692675b09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.MainScreenViewModel.handleError(error: VK_Weather.AppError) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C60AF00A-8C89-4C7A-A02B-8142DC34A8A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "onDidRecieveLocationError(error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A880E20D-535D-4890-AF80-9A07ADBFBFDC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "loadData(locationCoordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A880E20D-535D-4890-AF80-9A07ADBFBFDC - 724ce1e2350853e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in VK_Weather.MainScreenViewModel.loadData(locationCoordinates: VK_Weather.LocationCoordinates) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "A880E20D-535D-4890-AF80-9A07ADBFBFDC - 43f4c9dacc1df1ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in VK_Weather.MainScreenViewModel.loadData(locationCoordinates: VK_Weather.LocationCoordinates) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "409D10D6-DEDC-49A1-B3D0-9A55D4062CB7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "loadData(locationCoordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "409D10D6-DEDC-49A1-B3D0-9A55D4062CB7 - 724ce1e2350853c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in VK_Weather.MainScreenViewModel.loadData(locationCoordinates: VK_Weather.LocationCoordinates) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "409D10D6-DEDC-49A1-B3D0-9A55D4062CB7 - 43f4c9dacc1df1cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in VK_Weather.MainScreenViewModel.loadData(locationCoordinates: VK_Weather.LocationCoordinates) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC2E441A-E422-481E-8C05-12F75862BBA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/AppDesign/Views/MessageBannerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "showMessageBanner(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "165C3F2B-2DF2-41F3-B249-C37E07D4BFB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Base/BaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "showErrorBanner(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70CDF2A7-6A37-452D-947B-D2B234E82ED9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "loadNextWeathers(locationCoordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70CDF2A7-6A37-452D-947B-D2B234E82ED9 - 681e6db8e72cc68b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "70CDF2A7-6A37-452D-947B-D2B234E82ED9 - 9c61da38060caeb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "70CDF2A7-6A37-452D-947B-D2B234E82ED9 - 3eb9ca648d178289"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "70CDF2A7-6A37-452D-947B-D2B234E82ED9 - 280be5735feb3c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "70CDF2A7-6A37-452D-947B-D2B234E82ED9 - 280be5735feb3c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9FDCB15-05BE-460D-93B0-5ED4C6B9183F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Domain/UseCase/GetNextWeathersUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "invoke(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9FDCB15-05BE-460D-93B0-5ED4C6B9183F - 1c07838bd580bcb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for VK_Weather.GetNextWeathersUseCase.invoke(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Swift.Array&lt;VK_Weather.WeatherModel&gt;"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Domain/UseCase/GetNextWeathersUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "F9FDCB15-05BE-460D-93B0-5ED4C6B9183F - fed50a48a85f0698"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for VK_Weather.GetNextWeathersUseCase.invoke(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Swift.Array&lt;VK_Weather.WeatherModel&gt;"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Domain/UseCase/GetNextWeathersUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "F9FDCB15-05BE-460D-93B0-5ED4C6B9183F - cd2639ddb067f8b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VK_Weather.GetNextWeathersUseCase.invoke(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Swift.Array&lt;VK_Weather.WeatherModel&gt;"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Domain/UseCase/GetNextWeathersUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "F9FDCB15-05BE-460D-93B0-5ED4C6B9183F - 6a56fb376d8a9ab0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VK_Weather.GetNextWeathersUseCase.invoke(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Swift.Array&lt;VK_Weather.WeatherModel&gt;"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Domain/UseCase/GetNextWeathersUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4893DC2F-666E-44F0-ACC5-FEC7F874DBDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Repositories/Weather/WeatherRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4893DC2F-666E-44F0-ACC5-FEC7F874DBDF - b97ae5467304b8c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for VK_Weather.WeatherRepository.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Swift.Array&lt;VK_Weather.WeatherModel&gt;"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Repositories/Weather/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "4893DC2F-666E-44F0-ACC5-FEC7F874DBDF - c17878df4e883cf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for VK_Weather.WeatherRepository.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Swift.Array&lt;VK_Weather.WeatherModel&gt;"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Repositories/Weather/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "4893DC2F-666E-44F0-ACC5-FEC7F874DBDF - 724723bd15a74c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for VK_Weather.WeatherRepository.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Swift.Array&lt;VK_Weather.WeatherModel&gt;"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Repositories/Weather/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "4893DC2F-666E-44F0-ACC5-FEC7F874DBDF - a9cd06a16e4ed2c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VK_Weather.WeatherRepository.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Swift.Array&lt;VK_Weather.WeatherModel&gt;"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Repositories/Weather/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "4893DC2F-666E-44F0-ACC5-FEC7F874DBDF - a9cd06a16e4ed2c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for VK_Weather.WeatherRepository.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; Swift.Array&lt;VK_Weather.WeatherModel&gt;"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Repositories/Weather/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52B02C98-F932-43D1-8EDA-E639E6A87021"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC7ED3AE-30AC-4980-988A-A9B9269F6629"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC7ED3AE-30AC-4980-988A-A9B9269F6629 - 305a8b2da1418ebc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, VK_Weather.WeatherServiceError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;VK_Weather.WeathersResponse, Swift.Error&gt;) -&gt; () in VK_Weather.WeatherService.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; VK_Weather.WeathersResponse"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Weather/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "FC7ED3AE-30AC-4980-988A-A9B9269F6629 - 305a8b2da1418ebc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, VK_Weather.WeatherServiceError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;VK_Weather.WeathersResponse, Swift.Error&gt;) -&gt; () in VK_Weather.WeatherService.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; VK_Weather.WeathersResponse"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Weather/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "952E19B2-2414-4221-9567-3BAA23171DE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34FA65A3-DA55-4BBE-B6E8-F9FC80C5C236"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "610D6BB4-F746-4815-9AA7-AEE27677E28B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD5CE09D-BF0F-4C3B-8590-DEF9AF8435FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "795C4B6D-EEE0-41FC-9EDA-615B51476E30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C4F6B61-CFDE-45A6-A605-B6B521FF613D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64C5E7DF-AB97-4A45-9473-65E1B41B3719"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Data/Services/Weather/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getNextWeathers(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64C5E7DF-AB97-4A45-9473-65E1B41B3719 - 305a8b2da1418863"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, VK_Weather.WeatherServiceError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;VK_Weather.WeathersResponse, Swift.Error&gt;) -&gt; () in VK_Weather.WeatherService.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; VK_Weather.WeathersResponse"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Weather/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  uuid = "64C5E7DF-AB97-4A45-9473-65E1B41B3719 - 305a8b2da1418844"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, VK_Weather.WeatherServiceError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;VK_Weather.WeathersResponse, Swift.Error&gt;) -&gt; () in VK_Weather.WeatherService.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; VK_Weather.WeathersResponse"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Weather/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "64C5E7DF-AB97-4A45-9473-65E1B41B3719 - 305a8b2da1418863"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, VK_Weather.WeatherServiceError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;VK_Weather.WeathersResponse, Swift.Error&gt;) -&gt; () in VK_Weather.WeatherService.getNextWeathers(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; VK_Weather.WeathersResponse"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Data/Services/Weather/WeatherService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1068">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33B41A17-8F49-470F-A7B8-0A52FF81DD48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "loadNextWeathers(locationCoordinates:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11EA48A6-5ACB-4849-B077-2E1EB78F3EFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "loadNextWeathers(locationCoordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11EA48A6-5ACB-4849-B077-2E1EB78F3EFF - 4c26c5a7a9be5082"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.String) -&gt; () in VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "11EA48A6-5ACB-4849-B077-2E1EB78F3EFF - 242183a68ac54603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (VK_Weather.WeatherModel) -&gt; () in closure #2 (Swift.String) -&gt; () in VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FFA905B-A7F4-4B1A-9619-C8906274E394"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "loadNextWeathers(locationCoordinates:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20D746B4-88AB-4654-8F06-CAAFE1D28D47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "loadNextWeathers(locationCoordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "20D746B4-88AB-4654-8F06-CAAFE1D28D47 - 242183a68ac54166"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (VK_Weather.WeatherModel) -&gt; () in closure #2 (Swift.String) -&gt; () in VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1132">
+               </Location>
+               <Location
+                  uuid = "20D746B4-88AB-4654-8F06-CAAFE1D28D47 - 242183a68ac54166"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (VK_Weather.WeatherModel) -&gt; () in closure #2 (Swift.String) -&gt; () in VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5400BCE-58D1-4A02-B127-76B8B18E10E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "loadNextWeathers(locationCoordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5400BCE-58D1-4A02-B127-76B8B18E10E3 - 242183a68ac541c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (VK_Weather.WeatherModel) -&gt; () in closure #2 (Swift.String) -&gt; () in VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  uuid = "A5400BCE-58D1-4A02-B127-76B8B18E10E3 - 242183a68ac541c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (VK_Weather.WeatherModel) -&gt; () in closure #2 (Swift.String) -&gt; () in VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF1E6C6A-AA09-4564-B5D9-E25FDBDD108D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "loadNextWeathers(locationCoordinates:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5D267ED-A04A-4DC3-9F73-9CB5C135BC71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "loadNextWeathers(locationCoordinates:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F24C1A23-AA64-4538-A20A-7A58330D0AAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "loadNextWeathers(locationCoordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F24C1A23-AA64-4538-A20A-7A58330D0AAD - 242183a68ac54187"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (VK_Weather.WeatherModel) -&gt; () in closure #2 (Swift.String) -&gt; () in VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  uuid = "F24C1A23-AA64-4538-A20A-7A58330D0AAD - 242183a68ac54187"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (VK_Weather.WeatherModel) -&gt; () in closure #2 (Swift.String) -&gt; () in VK_Weather.MainScreenViewModel.loadNextWeathers(locationCoordinates: VK_Weather.LocationCoordinates) async throws -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/ViewModel/MainScreenViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED6A4D9F-3D5B-43C3-8261-6F5BCCBD1511"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VK-Weather/Presentation/Scenes/Main/View/Views/MoreInformationWeatherView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "configure(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED6A4D9F-3D5B-43C3-8261-6F5BCCBD1511 - 78ff9e2f0248dfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.MoreInformationWeatherView.configure(model: VK_Weather.WeatherModel) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/View/Views/MoreInformationWeatherView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "ED6A4D9F-3D5B-43C3-8261-6F5BCCBD1511 - 78ff9e2f0248dfe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VK_Weather.MoreInformationWeatherView.configure(model: VK_Weather.WeatherModel) -&gt; ()"
+                  moduleName = "VK-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elena/Documents/My_programms/VK-Weather/VK-Weather/Presentation/Scenes/Main/View/Views/MoreInformationWeatherView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
