@@ -23,6 +23,6 @@ final class AppCoordinator: Coordinator {
 	// MARK: - Private
 	
 	private func showMainScreen(animated: Bool) {
-		let coordinator = show(MainScreenCoordinator.self, animated: animated)
+		show(MainScreenCoordinator.self, animated: animated)
 	}
 }

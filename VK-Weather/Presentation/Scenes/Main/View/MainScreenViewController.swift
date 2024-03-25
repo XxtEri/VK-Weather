@@ -113,7 +113,6 @@ final class MainScreenViewController: BaseViewController, NavigationBarHiding {
 	
 	private func setupContentView() {
 		scrollView.addSubview(contentView)
-		print(UIScreen.main.bounds.size.height)
 		NSLayoutConstraint.activate([
 			contentView.topAnchor.constraint(equalTo: scrollView.topAnchor),
 			contentView.bottomAnchor.constraint(equalTo: scrollView.bottomAnchor),
