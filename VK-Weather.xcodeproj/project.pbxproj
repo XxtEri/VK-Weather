@@ -60,7 +60,6 @@
 		F3E0AA382BA99DA100F571B8 /* MainScreenCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E0AA372BA99DA100F571B8 /* MainScreenCoordinator.swift */; };
 		F3E0AA3C2BA99DB600F571B8 /* MainScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E0AA3B2BA99DB600F571B8 /* MainScreenViewController.swift */; };
 		F3E0AA3E2BA99DBF00F571B8 /* MainScreenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E0AA3D2BA99DBF00F571B8 /* MainScreenViewModel.swift */; };
-		F3E0AA492BA9A74100F571B8 /* AppStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3E0AA482BA9A74100F571B8 /* AppStrings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -119,7 +118,6 @@
 		F3E0AA372BA99DA100F571B8 /* MainScreenCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenCoordinator.swift; sourceTree = "<group>"; };
 		F3E0AA3B2BA99DB600F571B8 /* MainScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenViewController.swift; sourceTree = "<group>"; };
 		F3E0AA3D2BA99DBF00F571B8 /* MainScreenViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenViewModel.swift; sourceTree = "<group>"; };
-		F3E0AA482BA9A74100F571B8 /* AppStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStrings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -471,7 +469,6 @@
 			isa = PBXGroup;
 			children = (
 				F3E0AA092BA995D700F571B8 /* Assets.xcassets */,
-				F3E0AA482BA9A74100F571B8 /* AppStrings.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -660,7 +657,6 @@
 				F3247E342BAF14E6009F7BD1 /* WeathersResponse.swift in Sources */,
 				F3B22CC42BABE55D0096267E /* WeatherServiceProtocol.swift in Sources */,
 				F3B22CC22BABE4FE0096267E /* WeatherService.swift in Sources */,
-				F3E0AA492BA9A74100F571B8 /* AppStrings.swift in Sources */,
 				F3CCC4622BAD63390096F8DC /* DateFormatter+Format.swift in Sources */,
 				F3CCC4602BAD51610096F8DC /* MoreInformationWeatherView.swift in Sources */,
 				F3E0AA2B2BA99AB900F571B8 /* NavigationPopObserver.swift in Sources */,
